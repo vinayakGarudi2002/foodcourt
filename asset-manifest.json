@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/foodcourt/static/css/main.cde8acca.css",
+    "main.js": "/foodcourt/static/js/main.f404712d.js",
+    "static/js/787.d3befce1.chunk.js": "/foodcourt/static/js/787.d3befce1.chunk.js",
+    "static/media/burger.jpg": "/foodcourt/static/media/burger.6511111beeccd587662a.jpg",
+    "static/media/bspon.webp": "/foodcourt/static/media/bspon.57466189d34de5ed1a76.webp",
+    "static/media/logo.svg": "/foodcourt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/foodcourt/index.html",
+    "main.cde8acca.css.map": "/foodcourt/static/css/main.cde8acca.css.map",
+    "main.f404712d.js.map": "/foodcourt/static/js/main.f404712d.js.map",
+    "787.d3befce1.chunk.js.map": "/foodcourt/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde8acca.css",
+    "static/js/main.f404712d.js"
+  ]
+}
